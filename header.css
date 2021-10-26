@@ -63,7 +63,7 @@ body{
     
     margin-top: -350px;
     height: 800px;
-    background-image: url("headerimg/header.jpeg");
+    background-image: url("headerimg/header.jpg");
     width: 100%;
     background-size: cover;
     
@@ -79,7 +79,7 @@ body{
     margin-bottom: 360px;
 }
 .p2{
-    font-family: 'Helviteca' ;
+    font-family: 'Helviteca' sans-serif;
     font-size: 55px;
     color: blanchedalmond;
     text-transform: uppercase;
@@ -88,7 +88,7 @@ body{
     margin-bottom: 360px;
 }
 .p3{
-    font-family: 'Helviteca' ;
+    font-family: 'Helviteca'sans-serif ;
     font-size: 25px;
     color: blanchedalmond;
     margin-top: -30px;
@@ -109,7 +109,7 @@ body{
     background-color: #df2323d3;
     color: white;
     font-weight: 500;
-    font-family: 'Arial';
+    font-family: 'Arial' sans-serif;
     font-size: 19px;
     border-style: none;
     border-radius: 10px;
@@ -149,7 +149,7 @@ body{
 .pencil{
     margin-top: 5px;
     margin-left: 75px;
-    font-family: Arial;
+    font-family: Arial sans-serif;
     font-size: 19px;
     color: rgb(0, 0, 0);
     text-transform: uppercase;
@@ -166,7 +166,7 @@ body{
     margin-left: -15px;
     text-align: center;
     color: teal;
-    font-family: Arial;
+    font-family: Arial sans-serif;
     font-size: 15px;
 
 }
@@ -181,8 +181,8 @@ body{
 
 .monitor{
     margin-top: 5px;
-    margin-left: 79px;
-    font-family: Arial;
+    margin-left: 84px;
+    font-family: Arial sans-serif;
     font-size: 19px;
     color: rgb(0, 0, 0);
     text-transform: uppercase;
@@ -199,7 +199,7 @@ body{
     margin-left: -25px;
     text-align: center;
     color: teal;
-    font-family: Arial;
+    font-family: Arial sans-serif;
     font-size: 15px;
 
 }
@@ -216,7 +216,7 @@ body{
 .lamp{
     margin-top: 5px;
     margin-left: 100px;
-    font-family: Arial;
+    font-family: Arial sans-serif;
     font-size: 19px;
     color: rgb(0, 0, 0);
     text-transform: uppercase;
@@ -233,7 +233,7 @@ body{
     margin-left: -25px;
     text-align: center;
     color: teal;
-    font-family: Arial;
+    font-family: Arial sans-serif;
     font-size: 15px;
 
 }                   
@@ -241,7 +241,7 @@ body{
 .atom{
     margin-top: 5px;
     margin-left: 104px;
-    font-family: Arial;
+    font-family: Arial sans-serif;
     font-size: 19px;
     color: rgb(0, 0, 0);
     text-transform: uppercase;
@@ -249,7 +249,7 @@ body{
 .backpack{
     margin-top: 5px;
     margin-left: 99px;
-    font-family: Arial;
+    font-family: Arial sans-serif;
     font-size: 19px;
     color: rgb(0, 0, 0);
     text-transform: uppercase;
@@ -257,7 +257,7 @@ body{
 .cloud{
     margin-top: 5px;
     margin-left: 70px;
-    font-family: Arial;
+    font-family: Arial sans-serif;
     font-size: 19px;
     color: rgb(0, 0, 0);
     text-transform: uppercase;
@@ -265,8 +265,8 @@ body{
 }
 .img__backpack{
     margin-top: 5px;
-    margin-left: 127px;
-    font-family: Arial;
+    margin-left: 125px;
+    font-family: Arial sans-serif;
     font-size: 19px;
     color: rgb(0, 0, 0);
     text-transform: uppercase;
