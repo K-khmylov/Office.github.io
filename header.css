@@ -272,3 +272,12 @@ body{
     text-transform: uppercase;
 
 }
+
+.works_images, .works_images1{
+    display: flex;
+    margin-left: 0;
+    
+    width: 810px;
+    height: 244px;
+
+}
